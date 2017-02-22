@@ -1,4 +1,4 @@
-# idol347
+# Idol3 4.7
 Idol3 4.7 (6039Y) complete android 7.1.1 building source code
 
 Include:
